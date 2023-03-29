@@ -23,7 +23,7 @@ index 3808f5a9abc9f084cbabfc4cb95394cc37aaf4bb..19a136c482ba28a2fcedc8e9c889510c
 +    // Folia start
 +    @Override
 +    public boolean isFoliaSupported() {
-+        return this.foliaSupported;
++        return true;
 +    }
 +    // Folia end
 +
